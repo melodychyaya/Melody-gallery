@@ -384,7 +384,7 @@ body.dark-theme {
 }
 
 .about__img {
-  width: 230px;
+  width: 180px;
   justify-self: center;
 }
 
@@ -992,7 +992,7 @@ body.dark-theme {
     padding-right: 7rem;
   }
   .about__img {
-    width: 300px;
+    width: 210px;
   }
   .line__container,
 .edm__container,
