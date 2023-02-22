@@ -381,6 +381,7 @@ body.dark-theme {
 /*=============== ABOUT ===============*/
 .about__container {
   row-gap: 2rem;
+  align-items: center;
 }
 
 .about__img {
